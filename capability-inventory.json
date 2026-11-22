@@ -2,11 +2,11 @@
   "capabilities": [],
   "claims": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "qualified_owned_schema_ids": [],
   "repository_name": "CIRCUIT-PHYSICAL",
   "source_metadata": {
     "path": "repository-domain.json",
-    "sha256": "8c5bba0b62d5e27912cf77d53a323b5be1986a53429013c8e365af8c2a458809"
+    "sha256": "dcc18d30213336d8de46e5ba2fd17c91b86fae64c4fc5a86d81e85a798510e20"
   }
 }

@@ -12,6 +12,8 @@ CIRCUIT-PHYSICAL — repository foundation
 
 Circuit Physical is being built to run deterministic physical implementation from synthesised netlists to tapeout-ready `GDSII` or `OASIS` layouts — enforcing post-dummy-fill parasitic extraction and static timing, dual-tool design-rule checking, layout-versus-schematic equivalence, electrostatic-discharge and latch-up tie-offs, backside-substrate binding, failure-analysis fiducials and multi-project-wafer shuttle harness integration — completely without requiring AI. This checkout contains repository validation tooling and documentation only. Full foundation qualification is in progress. There is no installed place-and-route runner, static-timing engine, dual-DRC/LVS checker, shuttle harness builder or qualified record schema.
 
+Circuit Physical is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 **What does not exist yet:**
 - a floorplanning, place-and-route, parasitic-extraction, timing or DRC/LVS runner;
 - a registered runtime record schema;
