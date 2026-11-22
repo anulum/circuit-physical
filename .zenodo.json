@@ -1,0 +1,19 @@
+{
+  "creators": [
+    {
+      "affiliation": "ANULUM",
+      "name": "Šotek, Miroslav",
+      "orcid": "0009-0009-3560-0851"
+    }
+  ],
+  "description": "Architecture-only repository validation tooling and design for deterministic RTL-to-GDSII physical implementation and sign-off: floorplanning, placement, clock-tree synthesis, routing, post-dummy-fill parasitic extraction and multi-corner static timing, dual-tool DRC/LVS equivalence, ESD and backside-substrate verification and multi-project-wafer shuttle harness integration. No place-and-route runner, static-timing engine, dual-DRC/LVS checker, shuttle harness builder or qualified record schema is released.",
+  "keywords": [
+    "physical implementation",
+    "post-fill static timing",
+    "dual-DRC and LVS",
+    "evidence provenance"
+  ],
+  "license": "AGPL-3.0-or-later",
+  "title": "Circuit Physical",
+  "upload_type": "software"
+}
